@@ -1,0 +1,28 @@
+{
+  "products": [
+    "Audit Viewer",
+    "Clinical Cloud Administration",
+    "Coder",
+    "Edge CTMS",
+    "Edge CTMS and Edge Site Payments",
+    "Edge Design Optimizer",
+    "Edge Regulated Content Management (RCM)",
+    "Edge Site Grants",
+    "Edge Study Feasibility",
+    "iMedidata",
+    "iMedidata Standard Reports",
+    "Insights",
+    "Medical Imaging",
+    "MEDS",
+    "MEDS Reporter",
+    "Patient Cloud",
+    "PICAS Data Build",
+    "Rave Ad-hoc Reporting",
+    "Rave-iMedidata Data Migration Service",
+    "Rave RaveX",
+    "Rave RTSM",
+    "Rave Safety Gateway",
+    "Strategic Monitoring",
+    "Validation Portal"
+  ]
+}
