@@ -1,28 +1,136 @@
 {
   "products": [
-    "Audit Viewer",
-    "Clinical Cloud Administration",
-    "Coder",
-    "Edge CTMS",
-    "Edge CTMS and Edge Site Payments",
-    "Edge Design Optimizer",
-    "Edge Regulated Content Management (RCM)",
-    "Edge Site Grants",
-    "Edge Study Feasibility",
-    "iMedidata",
-    "iMedidata Standard Reports",
-    "Insights",
-    "Medical Imaging",
-    "MEDS",
-    "MEDS Reporter",
-    "Patient Cloud",
-    "PICAS Data Build",
-    "Rave Ad-hoc Reporting",
-    "Rave-iMedidata Data Migration Service",
-    "Rave RaveX",
-    "Rave RTSM",
-    "Rave Safety Gateway",
-    "Strategic Monitoring",
-    "Validation Portal"
+    {
+      "product": "Audit Viewer",
+      "label": "audit-viewer"
+    },
+    {
+      "product": "Centralized Statistical Analytics (CSA)",
+      "label": "csa"
+    },
+    {
+      "product": "Clinical Cloud Administration",
+      "label": "cloud-administration"
+    },
+    {
+      "product": "Classic Rave",
+      "label": "rave"
+    },
+    {
+      "product": "Coder",
+      "label": "coder"
+    },
+    {
+      "product": "Edge CTMS",
+      "label": "CTMS"
+    },
+    {
+      "product": "Edge CTMS and Edge Site Payments",
+      "label": "ctms"
+    },
+    {
+      "product": "Edge Design Optimizer",
+      "label": "design_optimizer"
+    },
+    {
+      "product": "Edge Regulated Content Management (RCM)",
+      "label": "edge-rcm"
+    },
+    {
+      "product": "Edge Site Grants Contracting",
+      "label": "grants-manager"
+    },
+    {
+      "product": "Edge Site Grants Planning",
+      "label": "grants-manager"
+    },
+    {
+      "product": "Edge Study Feasibility",
+      "label": "edge-study-feasibility"
+    },
+    {
+      "product": "iMedidata",
+      "label": "imedidata"
+    },
+    {
+      "product": "iMedidata Standard Reports",
+      "label": "imedidata-reports"
+    },
+    {
+      "product": "Insights",
+      "label": "insights"
+    },
+    {
+      "product": "Issue Management",
+      "label": "issue-management"
+    },
+    {
+      "product": "Medical Imaging",
+      "label": "medical-imaging"
+    },
+    {
+      "product": "MEDS",
+      "label": "meds-clinical"
+    },
+    {
+      "product": "MEDS Reporter",
+      "label": "medsreporter"
+    },
+    {
+      "product": "Patient Cloud",
+      "label": "patient-cloud"
+    },
+    {
+      "product": "Patient Profiles",
+      "label": "patient-profiles"
+    },
+    {
+      "product": "Patient Profiles Cloud",
+      "label": "patient-profiles-cloud"
+    },
+    {
+      "product": "PICAS Data Build",
+      "label": "picas"
+    },
+    {
+      "product": "Rave Ad-hoc Reporting",
+      "label": "ad-hoc"
+    },
+    {
+      "product": "Rave Batch Uploader",
+      "label": "rave-batch-uploader"
+    },
+    {
+      "product": "Rave EDC",
+      "label": "rave"
+    },
+    {
+      "product": "Rave Enroll",
+      "label": "rave-enroll"
+    },
+    {
+      "product": "Rave RaveX",
+      "label": "rave"
+    },
+    {
+      "product": "Rave RTSM",
+      "label": "rave-rtsm"
+    },
+    {
+      "product": "Rave Safety Gateway",
+      "label": "rave-safety-gateway"
+    },
+    {
+      "product": "Risk Assessment Categorization Tool (RACT)",
+      "label": "ract"
+    },
+    {
+      "product": "Site Monitoring",
+      "label": "site-monitoring"
+    },
+    {
+      "product": "Validation Portal",
+      "label": "validation-portal"
+    }
   ]
 }
