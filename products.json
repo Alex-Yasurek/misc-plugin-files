@@ -21,32 +21,32 @@
       "label": "coder"
     },
     {
-      "product": "Edge CTMS",
+      "product": "CTMS",
       "label": "CTMS"
     },
     {
-      "product": "Edge CTMS and Edge Site Payments",
+      "product": "CTMS and Site Payments",
       "label": "ctms"
     },
     {
-      "product": "Edge Design Optimizer",
+      "product": "Design Optimizer",
       "label": "design_optimizer"
     },
     {
-      "product": "Edge Regulated Content Management (RCM)",
-      "label": "edge-rcm"
+      "product": "Regulated Content Management (RCM)",
+      "label": "rcm"
     },
     {
-      "product": "Edge Site Grants Contracting",
+      "product": "Site Grants Contracting",
       "label": "grants-manager"
     },
     {
-      "product": "Edge Site Grants Planning",
+      "product": "Site Grants Planning",
       "label": "grants-manager"
     },
     {
-      "product": "Edge Study Feasibility",
-      "label": "edge-study-feasibility"
+      "product": "Study Feasibility",
+      "label": "study-feasibility"
     },
     {
       "product": "iMedidata",
